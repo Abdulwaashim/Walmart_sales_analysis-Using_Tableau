@@ -73,21 +73,21 @@ This project analyzes Walmart customer purchases using **Tableau**, focusing on 
 
 
 ## 📁 Project Files  
-📂 [Tableau Workbook (TWBX)](link-to-your-file)  
-📂 [Dataset (CSV)](link-to-your-file)  
+📂 [Tableau Workbook (TWBX)](https://github.com/Abdulwaashim/Walmart_sales_analysis-Using_Tableau/blob/main/Walmart_customer_purchases%20-%20DataAnalysis.twb)  
+📂 [Dataset (CSV)](https://github.com/Abdulwaashim/Walmart_sales_analysis-Using_Tableau/blob/main/Walmart_customer_purchases.csv)  
 📂 Dashboard Screenshots (See below)  
 
 ---
 
 ## 📸 Dashboard Visuals  
 ### 🔹 Sales Performance Analysis  
-![Sales Performance](link-to-your-image)  
+![Sales Performance](https://github.com/Abdulwaashim/Walmart_sales_analysis-Using_Tableau/blob/main/dashboards/Sales_performance_analysis-Dashboard.png)  
 
 ### 🔹 Customer Behavior Analysis  
-![Customer Behavior](link-to-your-image)  
+![Customer Behavior](https://github.com/Abdulwaashim/Walmart_sales_analysis-Using_Tableau/blob/main/dashboards/Customer_behaviour_analysis-Dashboard.png)  
 
 ### 🔹 Discount & Payment Insights  
-![Discount & Payment](link-to-your-image)  
+![Discount & Payment](https://github.com/Abdulwaashim/Walmart_sales_analysis-Using_Tableau/blob/main/dashboards/Discount_and_Payment_insights-Dashboard.png)  
 
 ---
 
@@ -101,4 +101,4 @@ This project analyzes Walmart customer purchases using **Tableau**, focusing on 
 ## 📞 Contact  
 👤 **[Abdul waashim]**  
 📧 [Abdulwaashimid@gmail.com]  
-🔗 [Your LinkedIn/GitHub Profile]  
+🔗 [https://www.linkedin.com/in/abdul-waashim/]  
